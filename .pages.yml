@@ -1,0 +1,55 @@
+media:
+  input: images
+  output: /images
+
+content:
+  - name: products
+    label: Products
+    type: file
+    path: data/products.json
+    format: json
+    fields:
+      - name: products
+        label: Products
+        type: object
+        list:
+          collapsible:
+            collapsed: true
+            summary: "{name}"
+        fields:
+          - name: id
+            label: ID
+            type: string
+
+          - name: name
+            label: Product Name
+            type: string
+
+          - name: price
+            label: Price
+            type: string
+
+          - name: sizingNote
+            label: Sizing Note
+            type: string
+
+          - name: material
+            label: Fabric
+            type: string
+
+          - name: description
+            label: Description
+            type: text
+
+          - name: image
+            label: Product Image
+            type: image
+
+          - name: collections
+            label: Collections
+            type: string
+            list: true
+
+          - name: newIn
+            label: New In
+            type: boolean
