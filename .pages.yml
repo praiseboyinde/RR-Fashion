@@ -1,6 +1,8 @@
 media:
-  input: images
-  output: /images
+  - name: images
+    label: Images
+    input: images
+    output: /images
 
 content:
   - name: products
