@@ -276,17 +276,6 @@
         "Kimono"
       ],
       "newIn": false
-    },
-    {
-      "id": "097",
-      "name": "Praise ",
-      "price": "6,6826,7832",
-      "material": "Jeans ",
-      "image": "/images/image_a00cd8f3.jpg",
-      "collections": [
-        "Crisscross set"
-      ],
-      "newIn": true
     }
   ]
 }
