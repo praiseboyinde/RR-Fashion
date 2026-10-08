@@ -1,0 +1,340 @@
+{
+  "products": [
+    {
+      "id": "031",
+      "name": "Pleated dress",
+      "price": "₦28,000",
+      "sizingNote": "",
+      "material": "Crepe (pattern)",
+      "description": "",
+      "image": "/images/IMG-20261007-WA0012.jpg",
+      "collections": [
+        "Pleated dress"
+      ],
+      "newIn": true
+    },
+    {
+      "id": "032",
+      "name": "Pleated dress",
+      "price": "₦25,000",
+      "sizingNote": "",
+      "material": "Crepe (pattern)",
+      "description": "",
+      "image": "/images/IMG-20261007-WA0011.jpg",
+      "collections": [
+        "Pleated dress"
+      ],
+      "newIn": true
+    },
+    {
+      "id": "033",
+      "name": "Skirt and top set",
+      "price": "₦25,000",
+      "sizingNote": "",
+      "material": "Burn out",
+      "description": "",
+      "image": "/images/IMG-20261007-WA0010.jpg",
+      "collections": [
+        "Skirt and top set"
+      ],
+      "newIn": true
+    },
+    {
+      "id": "034",
+      "name": "Skirt and top set",
+      "price": "",
+      "sizingNote": "",
+      "material": "Crepe and Duchess",
+      "description": "",
+      "image": "/images/IMG-20261007-WA0009.jpg",
+      "collections": [
+        "Skirt and top set"
+      ],
+      "newIn": true
+    },
+    {
+      "id": "035",
+      "name": "Skirt and top set",
+      "price": "₦32,000",
+      "sizingNote": "",
+      "material": "Crepe (plain and pattern)",
+      "description": "",
+      "image": "/images/IMG-20261005-WA0069.jpg",
+      "collections": [
+        "Skirt and top set"
+      ],
+      "newIn": true
+    },
+    {
+      "id": "010",
+      "name": "Two piece collection",
+      "price": "₦30,000",
+      "sizingNote": "",
+      "material": "Crepe",
+      "description": "",
+      "image": "/images/IMG-20261006-WA0059.jpg",
+      "collections": [
+        "Two piece"
+      ],
+      "newIn": true
+    },
+    {
+      "id": "011",
+      "name": "Jumpsuit collection",
+      "price": "₦23,000",
+      "sizingNote": "",
+      "material": "",
+      "description": "",
+      "image": "/images/IMG-20261006-WA0058.jpg",
+      "collections": [
+        "Jumpsuit"
+      ],
+      "newIn": true
+    },
+    {
+      "id": "012",
+      "name": "Pleated gowns collection",
+      "price": "₦30,000",
+      "sizingNote": "",
+      "material": "Lycra and Duchess",
+      "description": "",
+      "image": "/images/IMG-20261006-WA0057.jpg",
+      "collections": [
+        "Pleated gowns"
+      ],
+      "newIn": true
+    },
+    {
+      "id": "013",
+      "name": "Two piece",
+      "price": "₦28,000",
+      "sizingNote": "",
+      "material": "Crepe (plain and pattern)",
+      "description": "",
+      "image": "/images/IMG-20261006-WA0056.jpg",
+      "collections": [
+        "Two piece"
+      ],
+      "newIn": true
+    },
+    {
+      "id": "014",
+      "name": "Jumpsuit",
+      "price": "₦28,000",
+      "sizingNote": "",
+      "material": "Crepe",
+      "description": "",
+      "image": "/images/IMG-20261006-WA0055.jpg",
+      "collections": [
+        "Jumpsuit"
+      ],
+      "newIn": true
+    },
+    {
+      "id": "015",
+      "name": "Pleated gown collection",
+      "price": "₦30,000",
+      "sizingNote": "",
+      "material": "Cotton",
+      "description": "",
+      "image": "/images/IMG-20261006-WA0054.jpg",
+      "collections": [
+        "Pleated gowns"
+      ],
+      "newIn": true
+    },
+    {
+      "id": "016",
+      "name": "Jumpsuit",
+      "price": "₦28,000",
+      "sizingNote": "",
+      "material": "Crepe",
+      "description": "",
+      "image": "/images/IMG-20261006-WA0053.jpg",
+      "collections": [
+        "Jumpsuit"
+      ],
+      "newIn": true
+    },
+    {
+      "id": "017",
+      "name": "Kimono and pant set",
+      "price": "₦35,000",
+      "sizingNote": "",
+      "material": "Thick plain crepe and Aso-oke",
+      "description": "",
+      "image": "/images/IMG-20261006-WA0052.jpg",
+      "collections": [
+        "Kimono"
+      ],
+      "newIn": true
+    },
+    {
+      "id": "018",
+      "name": "Crisscross set",
+      "price": "₦40,000",
+      "sizingNote": "",
+      "material": "Flower organza and bold Sunray",
+      "description": "",
+      "image": "/images/IMG-20261006-WA0051.jpg",
+      "collections": [
+        "Crisscross set"
+      ],
+      "newIn": true
+    },
+    {
+      "id": "019",
+      "name": "Skirt and top set",
+      "price": "",
+      "sizingNote": "",
+      "material": "Thick plain crepe",
+      "description": "",
+      "image": "/images/IMG-20261006-WA0050.jpg",
+      "collections": [
+        "Skirt and top set"
+      ],
+      "newIn": false
+    },
+    {
+      "id": "020",
+      "name": "Skirt and top set",
+      "price": "",
+      "sizingNote": "",
+      "material": "Linen (plain and pattern)",
+      "description": "",
+      "image": "/images/IMG-20261006-WA0049.jpg",
+      "collections": [
+        "Skirt and top set"
+      ],
+      "newIn": false
+    },
+    {
+      "id": "021",
+      "name": "Skirt and top set",
+      "price": "",
+      "sizingNote": "",
+      "material": "Flower organza and bold Sunray",
+      "description": "",
+      "image": "/images/IMG-20261006-WA0048.jpg",
+      "collections": [
+        "Skirt and top set"
+      ],
+      "newIn": false
+    },
+    {
+      "id": "022",
+      "name": "Skirt and top set",
+      "price": "",
+      "sizingNote": "",
+      "material": "Linen (plain and pattern)",
+      "description": "",
+      "image": "/images/IMG-20261006-WA0047.jpg",
+      "collections": [
+        "Skirt and top set"
+      ],
+      "newIn": false
+    },
+    {
+      "id": "023",
+      "name": "Bubu gown",
+      "price": "₦27,000",
+      "sizingNote": "",
+      "material": "Pattern crepe",
+      "description": "",
+      "image": "/images/IMG-20261006-WA0046.jpg",
+      "collections": [],
+      "newIn": true
+    },
+    {
+      "id": "024",
+      "name": "Two piece",
+      "price": "₦28,000",
+      "sizingNote": "",
+      "material": "Thick crepe",
+      "description": "",
+      "image": "/images/IMG-20261006-WA0045.jpg",
+      "collections": [
+        "Two piece"
+      ],
+      "newIn": true
+    },
+    {
+      "id": "025",
+      "name": "Two piece",
+      "price": "₦30,000",
+      "sizingNote": "",
+      "material": "Thick plain crepe",
+      "description": "",
+      "image": "/images/IMG-20261006-WA0044.jpg",
+      "collections": [
+        "Two piece"
+      ],
+      "newIn": true
+    },
+    {
+      "id": "026",
+      "name": "Crisscross set",
+      "price": "₦40,000",
+      "sizingNote": "",
+      "material": "Burn out and bold Sunray",
+      "description": "",
+      "image": "/images/IMG-20261006-WA0043.jpg",
+      "collections": [
+        "Crisscross set"
+      ],
+      "newIn": true
+    },
+    {
+      "id": "027",
+      "name": "Crisscross set",
+      "price": "₦40,000",
+      "sizingNote": "",
+      "material": "Burn out and bold Sunray",
+      "description": "",
+      "image": "/images/IMG-20261006-WA0042.jpg",
+      "collections": [
+        "Crisscross set"
+      ],
+      "newIn": true
+    },
+    {
+      "id": "028",
+      "name": "Crisscross set",
+      "price": "₦40,000",
+      "sizingNote": "",
+      "material": "Burn out and bold Sunray",
+      "description": "",
+      "image": "/images/IMG-20261006-WA0041.jpg",
+      "collections": [
+        "Crisscross set"
+      ],
+      "newIn": false
+    },
+    {
+      "id": "029",
+      "name": "Skirt set",
+      "price": "₦35,000",
+      "sizingNote": "",
+      "material": "Thick plain crepe",
+      "description": "",
+      "image": "/images/IMG-20261006-WA0040.jpg",
+      "collections": [
+        "Skirt set"
+      ],
+      "newIn": false
+    },
+    {
+      "id": "030",
+      "name": "Kimono set",
+      "price": "₦32,000",
+      "sizingNote": "",
+      "material": "Pattern crepe and stretchy fancy",
+      "description": "",
+      "image": "/images/IMG-20261006-WA0007.jpg",
+      "collections": [
+        "Kimono"
+      ],
+      "newIn": false
+    }
+  ]
+}
