@@ -5,6 +5,7 @@
       "name": "Pleated dress",
       "price": "₦28,000",
       "material": "Crepe (pattern)",
+      "description": "Heyyyyyy",
       "image": "/images/IMG-20261007-WA0012.jpg",
       "collections": [
         "Pleated dress"
@@ -276,17 +277,6 @@
         "Kimono"
       ],
       "newIn": false
-    },
-    {
-      "name": "Praise ",
-      "price": "5,000,000",
-      "material": "Jeans ",
-      "description": "Model height 6'4",
-      "image": "/images/f2q8vrvpy0th1.png",
-      "collections": [
-        "Pleated dress"
-      ],
-      "newIn": true
     }
   ]
 }
