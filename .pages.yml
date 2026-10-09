@@ -55,3 +55,7 @@ content:
           - name: newIn
             label: New In
             type: boolean
+
+          - name: soldOut
+            label: Sold Out
+            type: boolean
