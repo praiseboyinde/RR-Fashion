@@ -9,7 +9,8 @@
       "collections": [
         "Pleated dress"
       ],
-      "newIn": true
+      "newIn": true,
+      "soldOut": true
     },
     {
       "id": "032",
@@ -20,7 +21,8 @@
       "collections": [
         "Pleated dress"
       ],
-      "newIn": true
+      "newIn": true,
+      "soldOut": false
     },
     {
       "id": "033",
@@ -31,7 +33,8 @@
       "collections": [
         "Skirt and top set"
       ],
-      "newIn": true
+      "newIn": true,
+      "soldOut": false
     },
     {
       "id": "034",
@@ -41,7 +44,8 @@
       "collections": [
         "Skirt and top set"
       ],
-      "newIn": true
+      "newIn": true,
+      "soldOut": false
     },
     {
       "id": "035",
@@ -52,7 +56,8 @@
       "collections": [
         "Skirt and top set"
       ],
-      "newIn": true
+      "newIn": true,
+      "soldOut": false
     },
     {
       "id": "010",
@@ -63,7 +68,8 @@
       "collections": [
         "Two piece"
       ],
-      "newIn": true
+      "newIn": true,
+      "soldOut": false
     },
     {
       "id": "011",
@@ -73,7 +79,8 @@
       "collections": [
         "Jumpsuit"
       ],
-      "newIn": true
+      "newIn": true,
+      "soldOut": false
     },
     {
       "id": "012",
@@ -84,7 +91,8 @@
       "collections": [
         "Pleated gowns"
       ],
-      "newIn": true
+      "newIn": true,
+      "soldOut": false
     },
     {
       "id": "013",
@@ -95,7 +103,8 @@
       "collections": [
         "Two piece"
       ],
-      "newIn": true
+      "newIn": true,
+      "soldOut": false
     },
     {
       "id": "014",
@@ -106,7 +115,8 @@
       "collections": [
         "Jumpsuit"
       ],
-      "newIn": true
+      "newIn": true,
+      "soldOut": false
     },
     {
       "id": "015",
@@ -117,7 +127,8 @@
       "collections": [
         "Pleated gowns"
       ],
-      "newIn": true
+      "newIn": true,
+      "soldOut": false
     },
     {
       "id": "016",
@@ -128,7 +139,8 @@
       "collections": [
         "Jumpsuit"
       ],
-      "newIn": true
+      "newIn": true,
+      "soldOut": false
     },
     {
       "id": "017",
@@ -139,7 +151,8 @@
       "collections": [
         "Kimono"
       ],
-      "newIn": true
+      "newIn": true,
+      "soldOut": false
     },
     {
       "id": "018",
@@ -150,7 +163,8 @@
       "collections": [
         "Crisscross set"
       ],
-      "newIn": true
+      "newIn": true,
+      "soldOut": false
     },
     {
       "id": "019",
@@ -160,7 +174,8 @@
       "collections": [
         "Skirt and top set"
       ],
-      "newIn": false
+      "newIn": false,
+      "soldOut": false
     },
     {
       "id": "020",
@@ -170,7 +185,8 @@
       "collections": [
         "Skirt and top set"
       ],
-      "newIn": false
+      "newIn": false,
+      "soldOut": false
     },
     {
       "id": "021",
@@ -180,7 +196,8 @@
       "collections": [
         "Skirt and top set"
       ],
-      "newIn": false
+      "newIn": false,
+      "soldOut": false
     },
     {
       "id": "022",
@@ -190,7 +207,8 @@
       "collections": [
         "Skirt and top set"
       ],
-      "newIn": false
+      "newIn": false,
+      "soldOut": false
     },
     {
       "id": "023",
@@ -198,7 +216,8 @@
       "price": "₦27,000",
       "material": "Pattern crepe",
       "image": "/images/IMG-20261006-WA0046.jpg",
-      "newIn": true
+      "newIn": true,
+      "soldOut": false
     },
     {
       "id": "024",
@@ -209,7 +228,8 @@
       "collections": [
         "Two piece"
       ],
-      "newIn": true
+      "newIn": true,
+      "soldOut": false
     },
     {
       "id": "025",
@@ -220,7 +240,8 @@
       "collections": [
         "Two piece"
       ],
-      "newIn": true
+      "newIn": true,
+      "soldOut": false
     },
     {
       "id": "026",
@@ -231,7 +252,8 @@
       "collections": [
         "Crisscross set"
       ],
-      "newIn": true
+      "newIn": true,
+      "soldOut": false
     },
     {
       "id": "027",
@@ -242,7 +264,8 @@
       "collections": [
         "Crisscross set"
       ],
-      "newIn": true
+      "newIn": true,
+      "soldOut": false
     },
     {
       "id": "028",
@@ -253,7 +276,8 @@
       "collections": [
         "Crisscross set"
       ],
-      "newIn": false
+      "newIn": false,
+      "soldOut": false
     },
     {
       "id": "029",
@@ -264,7 +288,8 @@
       "collections": [
         "Skirt set"
       ],
-      "newIn": false
+      "newIn": false,
+      "soldOut": false
     },
     {
       "id": "030",
@@ -275,7 +300,8 @@
       "collections": [
         "Kimono"
       ],
-      "newIn": false
+      "newIn": false,
+      "soldOut": false
     }
   ]
 }
